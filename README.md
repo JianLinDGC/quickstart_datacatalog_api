@@ -43,7 +43,7 @@ python main.py
 
 ## Documentation
 
-Link to the official Google Data Catalog documentation: https://cloud.google.com/data-catalog/docs/reference/rest
-Search syntax for search_catalog(): https://cloud.google.com/data-catalog/docs/how-to/search-reference
-Lookup entry target names: https://cloud.google.com/data-catalog/docs/reference/rest/v1/entries/lookup
+Link to the official Google Data Catalog documentation: https://cloud.google.com/data-catalog/docs/reference/rest  
+Search syntax for search_catalog(): https://cloud.google.com/data-catalog/docs/how-to/search-reference  
+Lookup entry target names: https://cloud.google.com/data-catalog/docs/reference/rest/v1/entries/lookup  
 GCP Full resource name: https://cloud.google.com/apis/design/resource_names#full_resource_name
